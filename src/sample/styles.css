@@ -1,0 +1,14 @@
+
+
+    .button{
+        -fx-text-fill: #ffffff;
+        -fx-background-color: green;
+    }
+    #buttonThree{
+        -fx-background-color: blue;
+
+    }
+    .label {
+        -fx-font-family: Raleway;
+        -fx-font-weight: bolder;
+    }
